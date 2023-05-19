@@ -1,12 +1,11 @@
 .hack {
   font-family: "Hack", monospace;
   font-synthesis: style weight;
-  letter-spacing: -0.03rem;
 }
 
 @font-face {
   font-family: "Hack";
-  src: url("hack.400.woff2") format("woff2");
+  src: url("hack/hack.400.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -14,7 +13,7 @@
 
 @font-face {
   font-family: "Hack";
-  src: url("hack.400i.woff2") format("woff2");
+  src: url("hack/hack.400i.woff2") format("woff2");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -22,7 +21,7 @@
 
 @font-face {
   font-family: "Hack";
-  src: url("hack.700.woff2") format("woff2");
+  src: url("hack/hack.700.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -30,7 +29,7 @@
 
 @font-face {
   font-family: "Hack";
-  src: url("hack.700.woff2") format("woff2");
+  src: url("hack/hack.700.woff2") format("woff2");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
