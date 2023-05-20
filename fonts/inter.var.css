@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Inter";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: oblique 0deg 10deg;
+  src: url("inter/inter.var.woff2") format("woff2");
+}
+
+* {
+  font-variation-settings: "slnt" 0deg;
+}
+
+.italic {
+  font-variation-settings: "slnt" 10deg;
+}

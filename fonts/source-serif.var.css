@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Source Serif";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+  src: url("source-serif/source-serif.normal.var.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Serif";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: italic;
+  src: url("source-serif/source-serif.italic.var.woff2") format("woff2");
+}
